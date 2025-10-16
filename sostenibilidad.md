@@ -16,3 +16,9 @@ La sostenibilidad es la capacidad de satisfacer nuestras necesidades sin necesid
 <img width="108" height="107" alt="image" src="https://github.com/user-attachments/assets/4bc411ad-5886-4e8c-af9a-a46de4dba382" />
 <img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/54a7f541-77a2-4f5f-afe7-e77b9822bb39" />
 
+---
+## Acciones sostenibles en informatica
+* [x] Apagar los ordenadores cuando no se vayan a utilizar para economizar.
+* [x] Usar la nube para almacenar datos y no ocupar espacio fisico.
+* [x] Crear aplicaciones duraderas y adaptables.
+
